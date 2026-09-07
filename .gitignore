@@ -1,0 +1,36 @@
+# Maven build output
+target/
+
+# Log files
+*.log
+
+# Compiled Java files
+*.class
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local test/output files
+test-output/
+logs/
+
+# Environment / secret files
+.env
+*.env
